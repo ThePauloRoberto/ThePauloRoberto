@@ -1,7 +1,7 @@
 ## Eai, eu sou Paulo Roberto (Gasp), Desenvolvedor Fullstack 🌐💻 . 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gasppr&show_icons=true&theme=tokyonight)](https://github.com/Gasppr)______[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gasppr&layout=donut&theme=tokyonight)](https://github.com/Gasppr)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gasppr&show_icons=true&theme=tokyonight)](https://github.com/Gasppr)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gasppr&layout=donut&theme=tokyonight)](https://github.com/Gasppr)
 
 
 
