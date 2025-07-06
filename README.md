@@ -2,10 +2,6 @@
 <h3 align="center">Desenvolvedor Fullstack | Especialista em NestJS & Angular</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Transformando+ideias+em+código;Soluções+eficientes+desde+2018" alt="Typing SVG">
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=thepauloroberto&label=Profile%20views&color=0e75b6&style=flat" alt="thepauloroberto" />
 </p>
 
