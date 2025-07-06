@@ -36,7 +36,7 @@
 [![ABNMO Backend](https://img.shields.io/badge/🚀_ABNMO_Backend-NestJS_PostgreSQL-blue?style=for-the-badge)](https://github.com/ipecode-br/abnmo-backend)  
 Sistema de gestão clínica para organização de saúde
 
-[![DogStar](https://img.shields.io/badge/🔗_DogStar-orange?style=for-the-badge)]((https://github.com/ThePauloRoberto/dogStar))  
+[![DogStar](https://img.shields.io/badge/🔗_DogStar-orange?style=for-the-badge)](https://github.com/ThePauloRoberto/dogStar)  
 Sistema de gerenciamento e uso de dados sobre Star Wars
 
 ---
