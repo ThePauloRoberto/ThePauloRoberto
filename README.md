@@ -9,7 +9,7 @@
 
 - 🌱 Aprendendo **Nestjs, Postgres e .NET**
 
-- 💬 Me pergunter sobre **Angular, Nestjs e Java**
+- 💬 Me pergunte sobre **Angular, Nestjs e Java**
 
 - 📫 Como me encontrar **paulorantunes13@hotmail.com**
 
