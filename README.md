@@ -26,7 +26,7 @@
 
 ### 📈 Estatísticas GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thepauloroberto&show_icons=true&theme=tokyonight" width="500">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThePauloRoberto&show_icons=true&theme=tokyonight" width="500">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePauloRoberto&layout=pie&theme=tokyonight" width="300">
 </p>
 
