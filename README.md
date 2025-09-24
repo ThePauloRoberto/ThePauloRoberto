@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu Sou Paulo Roberto</h1>
-<h3 align="center">Desenvolvedor Backend | Especialista em NestJS & Angular</h3>
+<h3 align="center">Desenvolvedor Backend </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thepauloroberto&label=Profile%20views&color=0e75b6&style=flat" alt="thepauloroberto" />
